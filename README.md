@@ -1,2 +1,2 @@
 # WebRTC-Mesh
- 基于WebRTC Mesh结构多人视频会议
+ Multiplayer video conferencing based on WebRTC Mesh.
