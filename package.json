@@ -1,0 +1,18 @@
+{
+  "name": "WebRTC-Example",
+  "version": "1.0.0",
+  "description": "An 'as simple as it gets' WebRTC example.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "dependencies": {
+    "node-machine-id": "^1.1.12",
+    "requirejs": "^2.3.6",
+    "ws": "^3.3.2"
+  }
+}
